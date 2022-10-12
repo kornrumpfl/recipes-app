@@ -4,9 +4,12 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <h1>Recipes App</h1>
-      <p>bla bla bla</p>
-    </div>
+    <>
+    <Head>
+        <title>Recipes App</title>
+    </Head>
+    <h1>Recipes App</h1>
+    </>
   )
 }
+
