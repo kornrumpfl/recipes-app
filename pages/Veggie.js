@@ -6,7 +6,7 @@ export default function Veggie(){
     <>
      <Background>
         <Image
-          src="../public/veggiePizza.jpg"
+          src="/../public/veggiePizza.jpg"
           alt="Veggie Pizza"
           layout="responsive"
           width={2400}
